@@ -1,0 +1,3 @@
+convert xml -> .py
+use utility pyuic5:
+pyuic5 messenger.ui -o clientui.py
